@@ -14,9 +14,17 @@
   - 5W-30
   
 ## History
-
+- 67,096
+  - oil, oil filter, alignment/rotation (new tires)
+- 74,349
+  - oil, oil filter, alignment/rotation
+- 80,680
+  - oil, oil filter, alignment/rotation
 - 83,505
-  - Oil, oil filter
+  - oil, oil filter
+- 84,321
+  - alignment/rotation
 - 89,118
-  - Oil, oil filter, air filter, wiper blades
-
+  - oil, oil filter, air filter, wiper blades, alignment/rotation
+- 89,927
+  - new suspension, alignment
