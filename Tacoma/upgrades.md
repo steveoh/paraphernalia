@@ -8,6 +8,6 @@
 
 - Dually LED Floods (2012/11/16)
 
-- Leer 180 Shell (2011/04/06)
+- Leer 180R Shell (2011/04/06)
   - Driver side windoor, passenger side slider
 ![shell](https://lh3.googleusercontent.com/-8FRqFBXP_MU/TdHYKa7zTpI/AAAAAAAASic/ODByVZvjSVc/s800/DSC_44660.jpg)
