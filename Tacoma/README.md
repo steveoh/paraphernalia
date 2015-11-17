@@ -2,6 +2,8 @@
 
 ## Changeables
 
+- **Tires**
+  - Bridgestone Dueler A/T Revo 2
 - **Air Filter**
   - STP SA9683
 - **Oil Filter**
