@@ -11,7 +11,7 @@
     - 22A (Left)
     - 21A (Right)
 - **Oil**
-  - 5W-30
+  - 5W-30 5.2 Liters
   
 ## History
 - 67,096
@@ -30,3 +30,5 @@
   - new suspension, alignment
 - 92,357
   - alignment/rotation
+- 94,716
+  - oil, filter change
