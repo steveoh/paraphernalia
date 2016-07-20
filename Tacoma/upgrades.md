@@ -1,7 +1,7 @@
 ## Upgrades
 
 - Wet Okole seat covers (2105/09/17)  
-![seat covers](https://cloud.githubusercontent.com/assets/325813/16812050/96cc45f2-48e8-11e6-8d1e-dfd127813636.JPG)  
+![seat covers](https://cloud.githubusercontent.com/assets/325813/16988239/f7444b5a-4e4c-11e6-90a7-b525f985aee7.JPG)  
   - Standard Bucket w/H.R. Folding tray No Hooks w/wheel	11 CHARCOAL	11 CHARCOAL 	
   - Full Piping - Bucket	21 LIGHT GRAY	21 LIGHT GRAY	 
   - OEM Style Pocket, Passenger Side	11 CHARCOAL	11 CHARCOAL	 
