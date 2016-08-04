@@ -1,6 +1,7 @@
 # Wish List
 
 - [ ] [Pelfreybilt plate bumper](http://www.pelfreybilt.com/#!2005-tacoma-rear-standard-plate/cmmw)
+- [ ] [all pro plate bumper](https://www.allprooffroad.com/05tacomatrailarmor/05tacomarearbumpers/237-2005-tacoma-rear-bumpers)
 - [ ] [Relentless plate bumper](http://www.relentlessfabrication.com/collections/toyota/products/05-15-tacoma-rear-plate-bumper?variant=6734657796)
 - [ ] [Mobtown skid plate](http://mobtownoffroad.com/product/skid-1/)
 - [ ] [JBL headers](http://www.sfxperformance.com/parts/JBA6035S.htm)
@@ -8,6 +9,7 @@
 - [ ] [Front end conversion](https://www.tacomaworld.com/threads/2012-tacoma-front-end-conversion-rg11.293318/)
 - [ ] [Anzo lights?](http://www.anzousa.com/headlights/toyota-tacoma-05-11-projector-h-l-black-clear-amber-ccfl.html)
 - [ ] [LED switches](https://duckduckgo.com/?q=Mictuning+LED+Bar+switch&iax=1&ia=images&iai=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51BCIVb6SzL.jpg)
+- [ ] [fuse relay](https://www.tacomaworld.com/threads/diy-build-and-install-a-bussmann-rtmr-fuse-relay-block.399454/)
 - [ ] [Hella horn](http://www.jcwhitney.com/hella-supertone-horn/p3089794.jcwx?filterid=c2545d2193u0j1)
 
 # Short List
