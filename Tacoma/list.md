@@ -3,7 +3,7 @@
 - [ ] [Pelfreybilt plate bumper](http://www.pelfreybilt.com/#!2005-tacoma-rear-standard-plate/cmmw)
 - [ ] [all pro plate bumper](https://www.allprooffroad.com/05tacomatrailarmor/05tacomarearbumpers/237-2005-tacoma-rear-bumpers)
 - [ ] [Relentless plate bumper](http://www.relentlessfabrication.com/collections/toyota/products/05-15-tacoma-rear-plate-bumper?variant=6734657796)
-- [ ] [Mobtown skid plate](http://mobtownoffroad.com/product/skid-1/)
+- [ ] [Mobtown skid plate](http://mobtownoffroad.com/product/skid-1/) or [BPF skid](http://bpfabricating.com/collections/trail-armour/products/2005-2013-toyota-tacoma-skid-plate-1?variant=1123342980)
 - [ ] [JBL headers](http://www.sfxperformance.com/parts/JBA6035S.htm)
 - [ ] [Doug Thorley headers](http://www.lceperformance.com/Doug-Thorley-Header-Kit-04-07-Taco-X-Runner-FJ-4-0-p/1046040.htm)
 - [ ] [Front end conversion](https://www.tacomaworld.com/threads/2012-tacoma-front-end-conversion-rg11.293318/)
