@@ -11,6 +11,7 @@
 - [ ] [LED switches](https://duckduckgo.com/?q=Mictuning+LED+Bar+switch&iax=1&ia=images&iai=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51BCIVb6SzL.jpg)
 - [ ] [fuse relay](https://www.tacomaworld.com/threads/diy-build-and-install-a-bussmann-rtmr-fuse-relay-block.399454/)
 - [ ] [Hella horn](http://www.jcwhitney.com/hella-supertone-horn/p3089794.jcwx?filterid=c2545d2193u0j1)
+- [ ] [Raptor mesh](http://bpfabricating.com/collections/frontpage/products/2005-2011-toyota-tacoma-raptor-style-mesh-and-letters) with [instructions](https://www.youtube.com/watch?v=3A3hEObgNr8&list=UUVx5ZqHmGq1PZE_4GUxIe8w)
 
 ![image](https://cloud.githubusercontent.com/assets/325813/17420679/732594ca-5a61-11e6-9ef3-645d2641068e.png)
 
