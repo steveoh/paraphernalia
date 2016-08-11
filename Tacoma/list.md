@@ -26,5 +26,4 @@
 - [ ] [CBI ditch light brackets](http://www.cbioffroadfab.com/products/2nd-gen-toyota-tacoma-products/t2-ditch-light-brackets/)
 - [ ] [Rago ditch light brackets](https://www.ragofabrication.com/collections/toyota/products/2nd-gen-tacoma-ditch-light-brackets)
 - [ ] [Relentless ditch light brackets](http://www.relentlessfabrication.com/collections/toyota/products/05-15-tacoma-hood-hinge-ditch-light-brackets?variant=15008506820)
-- [ ] [ABS kill switch](https://www.tacomaworld.com/threads/abs-kill-switch-mod-for-05-offroad-easy-way-pics.170927/)
-- [ ] [Compass & temp mirror](https://www.tacomaworld.com/threads/plug-and-play-compass-temp-mirror-kit-for-05-08-tacomas-install-review.439985/#post-12778577)
+- [x] [Compass & temp mirror](https://www.tacomaworld.com/threads/plug-and-play-compass-temp-mirror-kit-for-05-08-tacomas-install-review.439985/#post-12778577)
