@@ -4,7 +4,7 @@
 
 - **Tires**
   - Bridgestone Dueler A/T Revo 2
-    - 245/75R16=0.306122449
+    - 245/75R16=30.5"
 - **Air Filter**
   - STP SA9683
 - **Oil Filter**
