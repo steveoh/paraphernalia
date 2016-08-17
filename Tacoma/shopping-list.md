@@ -47,7 +47,7 @@
 
 #### Accessories
 - [ ] [ARB tow strap](http://store.arbusa.com/ARB-Snatch-Strap-17600lb---ARB705-P3619.aspx)
-- [ ] [ARB Fix a flat]()
+- [x] [ARB Fix a flat]()
 - [x] [Compass & temp mirror](https://www.tacomaworld.com/threads/plug-and-play-compass-temp-mirror-kit-for-05-08-tacomas-install-review.439985/#post-12778577)
 
 #### Lighting
