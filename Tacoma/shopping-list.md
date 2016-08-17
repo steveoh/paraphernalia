@@ -29,6 +29,7 @@
 - [ ] [Cooper Discover S/T MAXX](http://us.coopertire.com/Tires/Light-Truck/DISCOVERER-S-T-MAXX.aspx)
 - [ ] [Goodyear Duratrac](https://www.goodyear.com/en-US/tires/wrangler-duratrac)
 - [ ] [BFG TA KO2](http://www.bfgoodrichtires.com/tire-selector/category/off-road-tires/all-terrain-t-a-ko2)
+- [ ] [Falkon Wildpeak t3w](http://www.falkentire.com/tires/light-truck-suv-cuv-tires/wildpeak/t3w-tire)
 
 #### Suspension
 - [ ] [JBA STD UCA's](http://tacoma-upper-control-arms.com/tacoma/jba-upper-control-arms/jba-std-high-caster-upper-a-arms-for-2005-14-toyota-tacoma.html)
