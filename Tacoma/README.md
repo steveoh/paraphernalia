@@ -4,6 +4,7 @@
 
 - **Tires**
   - Bridgestone Dueler A/T Revo 2
+    - 245/75R16
 - **Air Filter**
   - STP SA9683
 - **Oil Filter**
