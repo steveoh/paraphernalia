@@ -6,7 +6,9 @@
   - Bridgestone Dueler A/T Revo 2
     - 245/75R16=30.5"
 - **Air Filter**
-  - STP SA9683
+  - K&N 332281
+- **Cabin Air Filter**
+  - K&N VF2005
 - **Oil Filter**
   - BOSCH 3330
 - **Window Wipers**
@@ -15,6 +17,8 @@
     - 21A (Right)
 - **Oil**
   - 5W-30 5.2 Liters
+- **Grease**
+  - Mobile 1
   
 ## History
 - 67,096
@@ -38,3 +42,5 @@
 - 99,184
   - [oil, filter change and valve cleaner](![image](https://cloud.githubusercontent.com/assets/325813/16440185/a9c0ea7c-3d7c-11e6-9f99-641fda64574b.png)
 )
+- 100,334
+  - U-Joint lube, cabin and engine air filter
