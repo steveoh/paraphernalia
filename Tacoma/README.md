@@ -40,7 +40,6 @@
 - 94,716
   - oil, filter change
 - 99,184
-  - [oil, filter change and valve cleaner](![image](https://cloud.githubusercontent.com/assets/325813/16440185/a9c0ea7c-3d7c-11e6-9f99-641fda64574b.png)
-)
+  - [oil, filter change and valve cleaner](https://cloud.githubusercontent.com/assets/325813/16440185/a9c0ea7c-3d7c-11e6-9f99-641fda64574b.png)
 - 100,334
   - U-Joint lube, cabin and engine air filter
