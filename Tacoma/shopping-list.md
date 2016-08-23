@@ -21,7 +21,7 @@
 #### Tires
 - [ ] [Cooper Discover S/T MAXX](http://us.coopertire.com/Tires/Light-Truck/DISCOVERER-S-T-MAXX.aspx)
 - [ ] [Goodyear Duratrac](https://www.goodyear.com/en-US/tires/wrangler-duratrac)
-- [ ] [BFG TA KO2](http://www.bfgoodrichtires.com/tire-selector/category/off-road-tires/all-terrain-t-a-ko2)
+- [ ] [BFG TA KO2](http://www.bfgoodrichtires.com/tire-selector/category/off-road-tires/all-terrain-t-a-ko2/tire-details)
 - [ ] [Falkon Wildpeak t3w](http://www.falkentire.com/tires/light-truck-suv-cuv-tires/wildpeak/t3w-tire)
 
 #### Suspension
