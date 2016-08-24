@@ -44,4 +44,4 @@
 
 #### Lighting
 - [x] [Relentless ditch light brackets](http://www.relentlessfabrication.com/collections/toyota/products/05-15-tacoma-hood-hinge-ditch-light-brackets?variant=15008506820)
-- [x] [Philips H4 12953BWX2 X-TREME ULTINON LED](http://www.xenondepot.com/h4-philips-12953BWX2-LED-Bulb-p/12953bwx2.htm)
+- [x] [Philips H4 12953BWX2 X-TREME ULTINON LED](http://www.xenondepot.com/h4-philips-12953BWX2-LED-Bulb-p/12953bwx2.htm) 8/23/2016
