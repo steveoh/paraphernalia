@@ -9,6 +9,7 @@
 - [ ] [Brake caliper paint](http://www.por15.com/POR-15-Caliper-Painting-Kit_p_58.html) 
 
 #### Accessories
+- [ ] [High mirror mount](http://www.birddawgindustries.com/purchase-1.html)
 - [x] [ARB Fix a flat]()
 - [x] [Compass & temp mirror](https://www.tacomaworld.com/threads/plug-and-play-compass-temp-mirror-kit-for-05-08-tacomas-install-review.439985/#post-12778577)
 
