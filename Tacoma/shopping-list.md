@@ -1,5 +1,10 @@
 # High List
 
+#### Audio
+- [ ] [Kicker hide away sub](http://www.kicker.com/hideaway)
+- [ ] [Pioneer avh 4100nex double din head unit](http://www.pioneerelectronics.com/PUSA/Car/NEX/AVH-4100NEX)
+- [ ] [Esky EC135-05 Rear View Camera](https://www.amazon.com/dp/B005Q65ZIK/)
+
 #### Cleaners
 - [ ] [303 Cleaning products](https://www.goldeagle.com/brands/303-products)
 - [ ] [Gunk engine cleaner](http://www.gunk.com/products/DET_EB1.ASP)
