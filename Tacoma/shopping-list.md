@@ -7,7 +7,7 @@
 - [ ] [Scosche dash kit](http://www.scosche.com/2005-2008-toyota-tacoma-dash-kit#product_tabs_review_tabbed)
 
 #### Cleaners
-- [ ] [303 Cleaning products](https://www.goldeagle.com/brands/303-products)
+- [x] [303 Cleaning products](https://www.goldeagle.com/brands/303-products)
 - [ ] [Gunk engine cleaner](http://www.gunk.com/products/DET_EB1.ASP)
 
 #### Paints
@@ -33,7 +33,7 @@
 - [ ] [Goodyear Duratrac](https://www.goodyear.com/en-US/tires/wrangler-duratrac)
 - [ ] [BFG TA KO2](http://www.bfgoodrichtires.com/tire-selector/category/off-road-tires/all-terrain-t-a-ko2/tire-details)
 - [ ] [Falkon Wildpeak t3w](http://www.falkentire.com/tires/light-truck-suv-cuv-tires/wildpeak/t3w-tire)
-- [ ] [Nitto terra grapplers](http://www.nittotire.com/light-truck-tires/terra-grappler-all-terrain-light-truck-tire/)
+- [x] [Nitto terra grapplers](http://www.nittotire.com/light-truck-tires/terra-grappler-all-terrain-light-truck-tire/)
 
 #### Suspension
 - [ ] [JBA STD UCA's](http://tacoma-upper-control-arms.com/tacoma/jba-upper-control-arms/jba-std-high-caster-upper-a-arms-for-2005-14-toyota-tacoma.html)
