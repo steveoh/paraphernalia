@@ -3,8 +3,8 @@
 ## Changeables
 
 - **Tires**
-  - Bridgestone Dueler A/T Revo 2
-    - 245/75R16=30.5"
+  - Falkon Wildpeak T3W
+    - 265/75R16=31.7"
 - **Air Filter**
   - K&N 332281
 - **Cabin Air Filter**
@@ -43,3 +43,5 @@
   - [oil, filter change and valve cleaner](https://cloud.githubusercontent.com/assets/325813/16440185/a9c0ea7c-3d7c-11e6-9f99-641fda64574b.png)
 - 100,334
   - U-Joint lube, cabin and engine air filter
+- 101,371
+  - 5 Falkon Wildpeak T3W tires. 55k warranty (9/15/2016)   
