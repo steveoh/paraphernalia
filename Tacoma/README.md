@@ -11,6 +11,7 @@
   - K&N VF2005
 - **Oil Filter**
   - BOSCH 3330
+  - [Toyota Genuine](https://www.amazon.com/Toyota-Genuine-Parts-90915-YZZD3-Filter/dp/B0044B0YJ8/)
 - **Window Wipers**
   - BOSCH Icons
     - 22A (Left)
