@@ -37,7 +37,7 @@
 
 #### Suspension
 - [ ] [JBA STD UCA's](http://tacoma-upper-control-arms.com/tacoma/jba-upper-control-arms/jba-std-high-caster-upper-a-arms-for-2005-14-toyota-tacoma.html)
-- [ ] [Light Racing UCA's](https://wheelersoffroad.com/product/toyota/tacoma/2005-tacoma-4x4-and-prerunner/suspension-and-chassis/light-racing-234954/light-racing-upper-control-arms-set/)
+- [x] [Light Racing UCA's](https://wheelersoffroad.com/product/toyota/tacoma/2005-tacoma-4x4-and-prerunner/suspension-and-chassis/light-racing-234954/light-racing-upper-control-arms-set/)
 
 # Low List
 
