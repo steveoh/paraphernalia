@@ -5,6 +5,7 @@
 - **Tires**
   - Falkon Wildpeak T3W
     - 265/75R16=31.7"
+    - lugs torqued to 80 ft/lb
 - **Air Filter**
   - K&N 332281
 - **Cabin Air Filter**
@@ -47,4 +48,4 @@
 - 101,371
   - 5 Falkon Wildpeak T3W tires. 55k warranty (9/15/2016)   
 - 102,451 
-  - SPA LR UCA's
+  - SPA LR UCA's installed and greased
