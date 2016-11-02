@@ -44,6 +44,7 @@
 #### Armor
 - [x] [Mobtown skid plate](http://mobtownoffroad.com/product/skid-1/)
 - [x] [Mobtown tailgate cap](http://mobtownoffroad.com/product/tailgate-cap/)
+- [x] [Total Chaos rear channel bed stiffeners](http://www.chaosfab.com/2005-2014-Tacoma-Off-Road-Suspension-Accessories.html)
 - [ ] [Pelfreybilt plate bumper](http://www.pelfreybilt.com/#!2005-tacoma-rear-standard-plate/cmmw)
 - [ ] [all pro plate bumper](https://www.allprooffroad.com/05tacomatrailarmor/05tacomarearbumpers/237-2005-tacoma-rear-bumpers)
 - [ ] [Relentless plate bumper](http://www.relentlessfabrication.com/collections/toyota/products/05-15-tacoma-rear-plate-bumper?variant=6734657796)
