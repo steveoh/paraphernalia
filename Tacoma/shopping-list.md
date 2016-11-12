@@ -4,7 +4,7 @@
 - [ ] [Kicker hide away sub](http://www.kicker.com/hideaway)
 - [ ] [Pioneer avh 4100nex double din head unit](http://www.pioneerelectronics.com/PUSA/Car/NEX/AVH-4100NEX)
 - [ ] [Esky EC135-05 Rear View Camera](https://www.amazon.com/dp/B005Q65ZIK/)
-- [ ] [Scosche dash kit](http://www.scosche.com/2005-2008-toyota-tacoma-dash-kit#product_tabs_review_tabbed)
+- [ ] [Metra dash kit](http://www.metraonline.com/part/95-8214TB)
 
 #### Cleaners
 - [x] [303 Cleaning products](https://www.goldeagle.com/brands/303-products)
