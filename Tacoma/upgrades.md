@@ -1,6 +1,6 @@
 ## Upgrades
 
-- Ikea diodoes for more light in the shell.
+- [Ikea diodoer](http://www.ikea.com/us/en/catalog/products/20119418/) for more light in the shell.
 ![light!](https://cloud.githubusercontent.com/assets/325813/20251112/bf80145a-a9d3-11e6-979c-25e88069411f.jpg)
 ![light](https://cloud.githubusercontent.com/assets/325813/20251111/bf7f9048-a9d3-11e6-89ac-efa6ef3564b0.jpg)
 
