@@ -1,5 +1,9 @@
 ## Upgrades
 
+- Ikea diodoes for more light in the shell.
+![light!](https://cloud.githubusercontent.com/assets/325813/20251112/bf80145a-a9d3-11e6-979c-25e88069411f.jpg)
+![light](https://cloud.githubusercontent.com/assets/325813/20251111/bf7f9048-a9d3-11e6-89ac-efa6ef3564b0.jpg)
+
 - [CH4x4 Toyota Small USB Power Socket](https://www.amazon.com/gp/product/B00TEICVHY/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)  
 ![file aug 07 5 04 49 pm](https://cloud.githubusercontent.com/assets/325813/17466007/f3e48352-5cc1-11e6-90cc-c367e3ced5e9.jpeg)
 - Wet Okole seat covers (2105/09/17)  
