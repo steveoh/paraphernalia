@@ -49,3 +49,5 @@
   - 5 Falkon Wildpeak T3W tires. 55k warranty (9/15/2016)   
 - 102,451 
   - SPA LR UCA's installed and greased
+- 103,025 
+  - [Cleaned MAF and throttle body](https://www.tacomaworld.com/threads/how-to-throttle-body-cleaning-2005-v6.94203/)
