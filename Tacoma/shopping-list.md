@@ -1,10 +1,10 @@
 # High List
 
 #### Audio
-- [ ] [Kicker hide away sub](http://www.kicker.com/hideaway)
-- [ ] [Pioneer avh 4100nex double din head unit](http://www.pioneerelectronics.com/PUSA/Car/NEX/AVH-4100NEX)
+- [x] [Kicker hide away sub](http://www.kicker.com/hideaway)
+- [x] [Pioneer avh 4100nex double din head unit](http://www.pioneerelectronics.com/PUSA/Car/NEX/AVH-4100NEX)
 - [ ] [Esky EC135-05 Rear View Camera](https://www.amazon.com/dp/B005Q65ZIK/)
-- [ ] [Metra dash kit](http://www.metraonline.com/part/95-8214TB)
+- [x] [Metra dash kit](http://www.metraonline.com/part/95-8214TB)
 
 #### Cleaners
 - [x] [303 Cleaning products](https://www.goldeagle.com/brands/303-products)
