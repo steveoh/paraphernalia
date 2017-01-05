@@ -1,5 +1,3 @@
-# High List
-
 #### Audio
 - [x] [Kicker hide away sub](http://www.kicker.com/hideaway)
 - [x] [Pioneer avh 4100nex double din head unit](http://www.pioneerelectronics.com/PUSA/Car/NEX/AVH-4100NEX)
@@ -25,8 +23,7 @@
 - [x] [Philips H4 12953BWX2 X-TREME ULTINON LED](http://www.xenondepot.com/h4-philips-12953BWX2-LED-Bulb-p/12953bwx2.htm) 8/23/2016
 - [ ] [Rigid reverse lights](http://www.rigidindustries.com/led-lighting/98003)
 - [ ] [Rigid Light bar](http://www.rigidindustries.com/led-lighting/12231)
-
-# Middle List
+- [ ] [Anzo lights?](http://www.anzousa.com/headlights/toyota-tacoma-05-11-projector-h-l-black-clear-amber-ccfl.html)
  
 #### Tires
 - [x] [Falkon Wildpeak t3w](http://www.falkentire.com/tires/light-truck-suv-cuv-tires/wildpeak/t3w-tire)
@@ -39,8 +36,6 @@
 - [ ] [JBA STD UCA's](http://tacoma-upper-control-arms.com/tacoma/jba-upper-control-arms/jba-std-high-caster-upper-a-arms-for-2005-14-toyota-tacoma.html)
 - [x] [Light Racing UCA's](https://wheelersoffroad.com/product/toyota/tacoma/2005-tacoma-4x4-and-prerunner/suspension-and-chassis/light-racing-234954/light-racing-upper-control-arms-set/)
 
-# Low List
-
 #### Armor
 - [x] [Mobtown skid plate](http://mobtownoffroad.com/product/skid-1/)
 - [x] [Mobtown tailgate cap](http://mobtownoffroad.com/product/tailgate-cap/)
@@ -51,13 +46,18 @@
 - [ ] [SOS plate bumper](http://sosoffroadconcepts.com/05-15-tacoma-rear-bumpers/)
 - [ ] [Mobtown bumper](http://mobtownoffroad.com/product/bumper-1/)
 
-#### Lighting
-- [ ] [Front end conversion](https://www.tacomaworld.com/threads/2012-tacoma-front-end-conversion-rg11.293318/)
-- [ ] [Anzo lights?](http://www.anzousa.com/headlights/toyota-tacoma-05-11-projector-h-l-black-clear-amber-ccfl.html)
+#### Electrical
 - [ ] [fuse relay](https://www.tacomaworld.com/threads/diy-build-and-install-a-bussmann-rtmr-fuse-relay-block.399454/)
+- [ ] [Ditch Light Switch](http://your4x4store.com/product/ch4x4-toyota-push-switch-tacoma-hood-lights-symbol/)
+- [ ] [Ditch Light Switch](http://your4x4store.com/product/ch4x4-toyota-push-switch-led-lights-symbol-2/)
+- [ ] [Reverse Light Switch](http://your4x4store.com/product/ch4x4-toyota-push-switch-tacoma-rear-lights-symbol/)
+- [ ] [Reverse Light Switch](http://your4x4store.com/product/ch4x4-toyota-push-switch-rear-lights-symbol-2-4/)
+- [ ] [Light Bar Switch](http://your4x4store.com/product/ch4x4-toyota-push-switch-tacoma-bumper-led-bar-symbol/)
+- [ ] [Light Bar Switch](http://your4x4store.com/product/ch4x4-toyota-push-switch-led-light-bar-symbol-2/)
 
 #### Display
 - [ ] [Hella horn](http://www.jcwhitney.com/hella-supertone-horn/p3089794.jcwx?filterid=c2545d2193u0j1)
 - [ ] [Raptor mesh](http://bpfabricating.com/collections/frontpage/products/2005-2011-toyota-tacoma-raptor-style-mesh-and-letters) with [instructions](https://www.youtube.com/watch?v=3A3hEObgNr8&list=UUVx5ZqHmGq1PZE_4GUxIe8w)
+- [ ] [Front end conversion](https://www.tacomaworld.com/threads/2012-tacoma-front-end-conversion-rg11.293318/)
 
 
