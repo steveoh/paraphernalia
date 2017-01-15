@@ -1,12 +1,13 @@
 ### Bedroom
 
-- Almond Something?
+- Toasted Almond
 - Pepper Spice Behr Premium Plus Flat Enamel (250F-6) Accent Base (1856)
 
 
 ### Bathroom
 
 - Light French Gray Behr Premium Plus Semi Gloss Base (3050)
+- White
 
 ### Office
 
@@ -18,3 +19,16 @@
 
 - Graphic Grape Behr Marquee Eggshell Base (2453)
 - Dreamscape Gray Behr Eggshell Enamel Base (2050)
+
+### Kitchen
+
+- Nano White Behr Ultra Eggshell
+- Portsmouth Olive Behr Ultra Eggshell
+  
+  ##### Under the bar
+    - Portsmouth Olive Behr Ultra High Gloss
+
+### Living Room
+
+- Winter Way Behr Ultra Eggshell
+- Nano White Behr Ultra Eggshell
