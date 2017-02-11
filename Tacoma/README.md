@@ -52,4 +52,4 @@
 - 103,025 
   - [Cleaned MAF and throttle body](https://www.tacomaworld.com/threads/how-to-throttle-body-cleaning-2005-v6.94203/)
 - 104,301
-  - oil, filter change. Added fumoto pan bolt
+  - oil, filter change. Added fumoto oil pan bolt, greased u-joints
