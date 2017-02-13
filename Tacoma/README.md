@@ -51,5 +51,7 @@
   - SPA LR UCA's installed and greased
 - 103,025 
   - [Cleaned MAF and throttle body](https://www.tacomaworld.com/threads/how-to-throttle-body-cleaning-2005-v6.94203/)
+- 103,400
+  - new windshield (1/10/17)
 - 104,301
   - oil, filter change. Added fumoto oil pan bolt, greased u-joints
