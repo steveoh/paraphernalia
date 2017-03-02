@@ -6,6 +6,7 @@
   - Falkon Wildpeak T3W
     - 265/75R16=31.7"
     - lugs torqued to 80 ft/lb
+    - pressure 30psi
 - **Air Filter**
   - K&N 332281
 - **Cabin Air Filter**
