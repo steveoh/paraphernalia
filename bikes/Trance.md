@@ -65,3 +65,10 @@ purchased 11/2013
 - Shock 1 year
 - Frame lifetime
 - Wheels 2 years
+
+
+### Maintenance
+- 1,016.9 mi 
+  - brake bleed
+  - fork rebuild
+  - brake pad
