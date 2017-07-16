@@ -72,3 +72,5 @@ purchased 11/2013
   - brake bleed
   - fork rebuild
   - brake pad
+- 1,075 mi
+  - 1x11 shimano 
