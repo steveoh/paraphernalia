@@ -59,3 +59,5 @@
 - 104,721
   - purchased new stock wheel and added 5th tire to rotation
   - greased UCA zerks
+- 109,603
+  - oil, filter
