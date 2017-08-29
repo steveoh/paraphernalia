@@ -55,9 +55,12 @@
 - 103,400
   - new windshield (1/10/17)
 - 104,301
-  - oil, filter change. Added fumoto oil pan bolt, greased u-joints
+  - oil, filter change. Added fumoto oil pan bolt
+  - greased u-joints
 - 104,721
   - purchased new stock wheel and added 5th tire to rotation
   - greased UCA zerks
 - 109,603
-  - oil, filter
+  - oil, filter, 
+  - greased UCA and driveshaft zerks
+  - front CV Axle with lifetime warranty
