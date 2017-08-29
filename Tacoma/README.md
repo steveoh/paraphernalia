@@ -60,7 +60,7 @@
 - 104,721
   - purchased new stock wheel and added 5th tire to rotation
   - greased UCA zerks
-- 109,603
+- 109,603  
   - oil and filter
   - greased UCA and driveshaft zerks
   - front CV Axle with lifetime warranty
