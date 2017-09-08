@@ -1,4 +1,4 @@
-## Upstairs
+## Main Floor
 | Breaker | Run Affected |
 |---------|-------|
 6/8 | Range
