@@ -8,9 +8,10 @@
 10 | Master bath GFCI's and light<br> Master bedroom receptacles and lights<br> Office Shared wasll receptacles
 13:small_red_triangle_down: | Master bath shower light<br>Public bath<br>Main hallway lights
 14:small_red_triangle: | Office outer walls
-12:small_red_triangle_down: | Gear room lights
+12:small_red_triangle_down: | Gear room light switch
+20:small_red_triangle_down: | Gear room receptacle under panel
 17:small_red_triangle_down: | Guest bath GFCI<br>Guest bath hallway lights
 14:small_red_triangle_down: | All basement main room receptacles<br>Entertainment center wall<br>Opposing guest room recepticals<br>Right shared gym wall lower recepticle
-17:small_red_triangle: | ALl gym receptacle except rigth shared entertainment center wall
+17:small_red_triangle: | All gym receptacles except right shared entertainment center wall
 
  
