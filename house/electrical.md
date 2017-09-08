@@ -1,7 +1,7 @@
 | Breaker | Run Affected |
 |---------|-------|
 6/8 | Range
-15:small_red_triangle_down: | Kitchen lights<br>Dining room lights<br>Living room shared dining wall
+15:small_red_triangle_down: | Kitchen lights<br>Dining room lights<br>Living room shared dining wall all the way around to door
 15:small_red_triangle: | Kitchen GFCI left of disposal<br>Dishwasher
 18:small_red_triangle: | Kitchen GFCI right of sink
 16:small_red_triangle: | Dining room shared kitchen wall<br>Refrigerator
