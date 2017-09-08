@@ -10,6 +10,6 @@
 14:small_red_triangle: | Office outer walls
 12:small_red_triangle_down: | Gear room lights
 17:small_red_triangle_down: | Guest bath GFCI<br>Guest bath hallway lights
-14:small_red_triangle_down: | All basement recepticals<br>Entertainment center wall<br>Opposing guest room recepticals<br>Shared gym wall lower recepticle
+14:small_red_triangle_down: | All basement recepticals<br>Entertainment center wall<br>Opposing guest room recepticals<br>Right shared gym wall lower recepticle
 
  
