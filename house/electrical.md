@@ -10,8 +10,9 @@
 14:small_red_triangle: | Office outer walls
 12:small_red_triangle_down: | Gear room light switch
 20:small_red_triangle_down: | Gear room receptacle under panel
+16:small_red_triangle_down: | Downstairs furnace
 17:small_red_triangle_down: | Guest bath GFCI<br>Guest bath hallway lights
-14:small_red_triangle_down: | All basement main room receptacles<br>Entertainment center wall<br>Opposing guest room recepticals<br>Right shared gym wall lower recepticle
+14:small_red_triangle_down: | All downstairs main room receptacles<br>Entertainment center wall<br>Opposing guest room recepticals<br>Right shared gym wall lower recepticle
 17:small_red_triangle: | All gym receptacles except right shared entertainment center wall
 
  
