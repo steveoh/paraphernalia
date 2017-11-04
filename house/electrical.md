@@ -5,7 +5,7 @@
 15:small_red_triangle_down: | Kitchen lights<br>Dining room lights<br>Living room shared dining wall all the way around to door
 15:small_red_triangle: | Kitchen GFCI left of disposal<br>Dishwasher
 18:small_red_triangle: | Kitchen GFCI right of sink
-16:small_red_triangle: | Dining room shared kitchen wall<br>Refrigerator
+16:small_red_triangle: | Dining room shared kitchen wall<br>Refrigerator<br>range, vent, wall receptical
 10 | Master bath GFCI's and light<br> Master bedroom receptacles and lights<br> Office Shared wasll receptacles
 13:small_red_triangle_down: | Master bath shower light<br>Public bath<br>Main hallway lights
 14:small_red_triangle: | Office outer walls<br>Hallway receptacle<br>Closet
