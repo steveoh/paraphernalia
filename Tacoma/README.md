@@ -64,3 +64,5 @@
   - oil and filter
   - greased UCA and driveshaft zerks
   - front CV Axle with lifetime warranty
+- 111,302
+  - rotation
