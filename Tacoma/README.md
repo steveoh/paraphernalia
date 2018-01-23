@@ -22,6 +22,10 @@
   - 5W-30 5.2 Liters
 - **Grease**
   - Mobile 1
+- **[Alignment](https://twstatic.net/attachments/img_0249-jpg.2512329/0)**
+  - +2.75 caster
+  - -0.2 camber
+  - +0.255 toe
   
 ## History
 - 67,096
