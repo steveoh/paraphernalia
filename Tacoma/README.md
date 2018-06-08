@@ -70,3 +70,5 @@
   - front CV Axle with lifetime warranty
 - 111,302
   - rotation
+- 114,765
+  - oil filter and grease
