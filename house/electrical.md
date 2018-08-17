@@ -13,6 +13,7 @@
 ## Ground Floor
 | Breaker | Run Affected |
 |---------|-------|
+12:small_red_triangle: | laundry machunes
 12:small_red_triangle_down: | Gear room light switch
 20:small_red_triangle_down: | Gear room receptacle under panel
 18:small_red_triangle_down: | Gear room receptacle on shared garage wall
