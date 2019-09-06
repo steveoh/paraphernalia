@@ -73,4 +73,7 @@ purchased 11/2013
   - fork rebuild
   - brake pad
 - 1,075 mi
-  - 1x11 shimano 
+  - 1x11 shimano
+- 1,426 MI
+  - brake pads
+  - dropper post cartridge 
