@@ -1,9 +1,11 @@
 ## Main Floor
 | Breaker | Run Affected |
 |---------|-------|
-6/8 | Range
+6 | Dring bar fridge
+9 | Microwave
 10 | Master bath GFCI's and light<br> Master bedroom receptacles and lights<br> Office Shared wasll receptacles
-13:small_red_triangle_down: | Master bath shower light<br>Public bath<br>Main hallway lights
+11 | Range
+13:small_red_triangle_down: | Island
 14:small_red_triangle: | Office outer walls<br>Hallway receptacle<br>Closet
 15:small_red_triangle_down: | Kitchen lights<br>Dining room lights<br>Living room shared dining wall all the way around to door
 15:small_red_triangle: | Kitchen GFCI left of disposal<br>Dishwasher
