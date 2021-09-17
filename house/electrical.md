@@ -1,7 +1,8 @@
 ## Main Floor
 | Breaker | Run Affected |
 |---------|-------|
-6 | Dring bar fridge
+6 | Dring bar fridge and under cabinet lights
+8 | Drink bar and wall outlet
 9 | Microwave
 10 | Master bath GFCI's and light<br> Master bedroom receptacles and lights<br> Office Shared wasll receptacles
 11 | Range
