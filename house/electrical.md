@@ -5,7 +5,7 @@
 8 | Drink bar and wall outlet
 9 | Microwave
 10 | Master bath GFCI's and light<br> Master bedroom receptacles and lights<br> Office Shared wasll receptacles
-11:small_red_triangle: | Island outlets<br>kitchen lights<br>hood vent<br>dining room light
+11:small_red_triangle: | Island outlets<br>hood vent<br>dining room light
 11:small_red_triangle_down: | Range
 13:small_red_triangle_down: | ?
 14:small_red_triangle: | Office outer walls<br>Hallway receptacle<br>Closet
