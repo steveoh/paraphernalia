@@ -9,7 +9,7 @@
 13:small_red_triangle_down: | Island
 14:small_red_triangle: | Office outer walls<br>Hallway receptacle<br>Closet
 15:small_red_triangle: | ?
-15:small_red_triangle_down: | Kitchen lights<br>Dining room lights<br>Living room shared dining wall all the way around to door
+15:small_red_triangle_down: | Kitchen under cabinet lights<br>outside flood light<br>hallway and guest bathroom
 16:small_red_triangle: | Dining room shared kitchen wall<br>Refrigerator<br>range, vent, wall receptical
 19:small_red_triangle: | Kitchen sink exterior wall and outside light
 
