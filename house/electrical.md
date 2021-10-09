@@ -7,13 +7,14 @@
 | Breaker                | Items                                |
 | ---------------------- | ------------------------------------ |
 | 11:small_red_triangle: | dining room light switch and outlets |
+| 17:small_red_triangle: | switch for outdoor outlet            |
 
 ### Patio
 
-| Breaker                     | Items                                                     |
-| --------------------------- | --------------------------------------------------------- |
-| 15:small_red_triangle_down: | outdoor GFCI light                                        |
-| 17:small_red_triangle:      | receptacles except right shared entertainment center wall |
+| Breaker                     | Items              |
+| --------------------------- | ------------------ |
+| 15:small_red_triangle_down: | outdoor GFCI light |
+| 17:small_red_triangle:      | outdoor GCFI       |
 
 ### Kitchen
 
