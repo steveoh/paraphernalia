@@ -10,8 +10,10 @@
 
 ### Patio
 
-| 15:small_red_triangle_down: | outdoor GFCI light |
-| 17:small_red_triangle: | receptacles except right shared entertainment center wall |
+| Breaker                     | Items                                                     |
+| --------------------------- | --------------------------------------------------------- |
+| 15:small_red_triangle_down: | outdoor GFCI light                                        |
+| 17:small_red_triangle:      | receptacles except right shared entertainment center wall |
 
 ### Kitchen
 
