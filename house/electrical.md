@@ -8,6 +8,11 @@
 | ---------------------- | ------------------------------------ |
 | 11:small_red_triangle: | dining room light switch and outlets |
 
+### Patio
+
+| 15:small_red_triangle_down: | outdoor GFCI light |
+| 17:small_red_triangle: | receptacles except right shared entertainment center wall |
+
 ### Kitchen
 
 | Breaker                     | Items                                                                      |
@@ -17,7 +22,6 @@
 | 11:small_red_triangle:      | island outlets<br>hood vent<br>main kitchen lights<br>outside flood lights |
 | 11:small_red_triangle_down: | microwave                                                                  |
 | 15:small_red_triangle:      | dishwasher<br>garbage disposal                                             |
-| 15:small_red_triangle_down: | outdoor GFCI light                                                         |
 | 19:small_red_triangle:      | exterior wall receptacles<br>sink light light                              |
 | 19:small_red_triangle_down: | fridge                                                                     |
 
