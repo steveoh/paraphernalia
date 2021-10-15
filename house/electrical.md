@@ -80,6 +80,7 @@
 | --------------------------- | ------------- |
 | 17:small_red_triangle_down: | light         |
 | 17:small_red_triangle_down: | outside light |
+| 18:small_red_triangle:      | doorbell      |
 
 ## Ground Floor
 
@@ -142,4 +143,3 @@
 | Breaker                | Items |
 | ---------------------- | ----- |
 | 16:small_red_triangle: |       |
-| 18:small_red_triangle: |       |
