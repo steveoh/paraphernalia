@@ -100,3 +100,8 @@ Aluminum
 ### Load Capacity
 
 300 lbs
+
+## Modifications
+
+2022/03/21 - Rack and fenders
+2022/02/28 - Bar mitts
