@@ -1,5 +1,7 @@
 # 2022 SONDORS XS
 
+$50 off for you and $50 credit for me: [referral link](http://sondors.refr.cc/steveg)
+
 <img width="537" alt="image" src="https://user-images.githubusercontent.com/325813/159341177-c305e940-42b6-4f84-9b04-5594cb03a20b.png">
 
 ## Order
