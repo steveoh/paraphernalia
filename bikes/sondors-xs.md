@@ -10,7 +10,7 @@
 2022/02/28 - Bar mitts
 2022/04/01 - New controller (warranty issue)
 2022/04/04 - FOMTOR 30 tooth 104 BCD narrow wide chainring
-![IMG_7660](https://user-images.githubusercontent.com/325813/161621609-9d77f34e-95a6-4f28-85d3-83fe4a115fee.png)
+![IMG_7660](https://user-images.githubusercontent.com/325813/161622369-6b70ca11-d24e-4afc-bdee-1c49052a76a0.png)
 
 
 ## Order
