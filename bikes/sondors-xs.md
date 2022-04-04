@@ -4,6 +4,15 @@
 
 <img width="537" alt="image" src="https://user-images.githubusercontent.com/325813/159341177-c305e940-42b6-4f84-9b04-5594cb03a20b.png">
 
+## Modifications
+
+2022/03/21 - Rack and fenders
+2022/02/28 - Bar mitts
+2022/04/01 - New controller (warranty issue)
+2022/04/04 - FOMTOR 30 tooth 104 BCD narrow wide chainring
+![IMG_7660](https://user-images.githubusercontent.com/325813/161621609-9d77f34e-95a6-4f28-85d3-83fe4a115fee.png)
+
+
 ## Order
 
 - Built 2022/02/11
@@ -53,7 +62,7 @@ Aluminum rims, front hub with sealed bearings
 
 ### Crank Set
 
-Premium 48T
+FOMTOR 30 tooth 104 BCD narrow wide chainring
 
 ### Pedal Assist Sensor
 
@@ -102,8 +111,3 @@ Aluminum
 ### Load Capacity
 
 300 lbs
-
-## Modifications
-
-2022/03/21 - Rack and fenders
-2022/02/28 - Bar mitts
